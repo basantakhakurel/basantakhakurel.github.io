@@ -82,47 +82,47 @@
 - title: Publications
   type: time_table
   contents:
-    # - title: "The hidden cost of discretization: how the number of rate categories affects phylogenetic inference"
-    #   institution: "Khakurel B., Capobianco A., Höhna S. · Royal Society Open Science (Submitted)"
-    #   year: 2026
-    # - title: "Character level insights on the mosaic nature of morphological evolution"
-    #   institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Proceedings of the Royal Society B (Submitted)"
-    #   year: 2026
+    - title: "The hidden cost of discretization: how the number of rate categories affects phylogenetic inference"
+      institution: "Khakurel B., Capobianco A., Höhna S. · Royal Society Open Science (Submitted)"
+      year: 2026
+    - title: "Character level insights on the mosaic nature of morphological evolution"
+      institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Proceedings of the Royal Society B (Submitted)"
+      year: 2026
     - title: "Incorporating continuous characters in joint estimation of dicynodont phylogeny"
       institution: "Wynd B.M., Khakurel B., Kammerer C.F., Wagner P.J., Wright A.M. · Systematic Biology"
       year: 2026
       description:
-        - "[doi.org/10.1093/sysbio/syaf078](https://doi.org/10.1093/sysbio/syaf078)"
+        - "https://doi.org/10.1093/sysbio/syaf078"
     - title: "A covarion model for phylogenetic estimation using discrete morphological datasets"
       institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Systematic Biology"
       year: 2026
       description:
-        - "[doi.org/10.1093/sysbio/syag014](https://doi.org/10.1093/sysbio/syag014)"
+        - "https://doi.org/10.1093/sysbio/syag014"
     - title: "Practical Guide and Review of Fossil Tip-Dating in Phylogenetics"
       institution: "Heckeberg N., Capobianco A., Khakurel B., Darlim G., Höhna S. · Systematic Biology"
       year: 2026
       description:
-        - "[doi.org/10.1093/sysbio/syaf050](https://doi.org/10.1093/sysbio/syaf050)"
+        - "https://doi.org/10.1093/sysbio/syaf050"
     - title: "Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings"
       institution: "Girón Duque JC, Balk M, Dahdul W, Lapp H, Mikó I, Alhajjar E, Wynd B, Tarasov S, Lawrence C, Khakurel B, Porto A, Yan L, Fluck IE, Porto D, Keating J, Borokini I, Seltmann K, Montanaro G, Mabee P · Biodiversity Information Science and Standards"
       year: 2024
       description:
-        - "[doi.org/10.3897/biss.8.115232](https://doi.org/10.3897/biss.8.115232)"
+        - "https://doi.org/10.3897/biss.8.115232"
     - title: "The fundamental role of character coding in Bayesian morphological phylogenetics"
       institution: "Khakurel B., Grigsby C., Tran T.D., Zariwala J., Wright A.M. · Systematic Biology"
       year: 2024
       description:
-        - "[doi.org/10.1093/sysbio/syae033](https://doi.org/10.1093/sysbio/syae033)"
+        - "https://doi.org/10.1093/sysbio/syae033"
     - title: "Species delimitation of the eastern Pinesnake complex (Pituophis melanoleucus)"
       institution: "Khakurel B., Nikolakis Z.L., Crother B.I., Wright A.M. · Bulletin of the Society of Systematic Biologists"
       year: 2023
       description:
-        - "[doi.org/10.18061/bssb.v2i1.9423](https://doi.org/10.18061/bssb.v2i1.9423)"
+        - "https://doi.org/10.18061/bssb.v2i1.9423"
     - title: "Genomic data support the taxonomic validity of Middle American livebearers Poeciliopsis gracilis and Poeciliopsis pleurospilus (Cyprinodontiformes: Poeciliidae)"
       institution: "Ward S.J., McMahan C.D., Khakurel B., Wright A.M., Piller K.R. · PLoS ONE"
       year: 2022
       description:
-        - "[doi.org/10.1371/journal.pone.0262687](https://doi.org/10.1371/journal.pone.0262687)"
+        - "https://doi.org/10.1371/journal.pone.0262687"
 
 - title: Invited Talks
   type: time_table
