@@ -22,3 +22,9 @@ presentations:
     date: "2026-03-20"
     type: "Talk"
     link: "/assets/presentations/EvoGen2026_Talk.pdf"
+
+  - title: "Accounting for rate heterotachy in morphological phylogenetics: an overview in RevBayes"
+    conference: "Palaeoverse Lecture Series"
+    date: "2026-10-29"
+    type: "Invited Lecture"
+    link: "/assets/presentations/Palaeoverse2026_Talk.pdf"
