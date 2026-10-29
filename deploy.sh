@@ -9,4 +9,4 @@ docker compose pull
 # deploy
 docker compose up
 
-# http:://localhost:8080
+# http://localhost:8081
