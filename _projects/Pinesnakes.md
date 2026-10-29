@@ -3,7 +3,7 @@ layout: page
 title: Species Delimitation on Eastern Pinesnakes
 description: Population structure of Eastern pinesnake complex
 img: assets/img/pinesnake_intro.png
-importance: 1
+importance: 6
 category: academic
 related_publications: false
 ---
