@@ -4,9 +4,9 @@
     - name: Full Name
       value: Basanta Khakurel
     - name: Position
-      value: PhD Student
+      value: Ph.D. Candidate (thesis submitted)
     - name: Email
-      value: b.khakurel@lmu.de
+      value: basantakhakurel@gmail.com
     - name: Phone
       value: +49-015234618794
     - name: Location
@@ -14,7 +14,7 @@
     - name: Website
       value: basantakhakurel.github.io
     - name: Languages
-      value: Nepali (Native), English (Fluent), Hindi (Fluent), German (Beginner)
+      value: Nepali (Native), English (Fluent), Hindi (Fluent), German (Basic)
 
 - title: Education
   type: time_table
@@ -23,7 +23,7 @@
       institution: Ludwig-Maximilians-Universität München, Munich, Germany
       year: 2023 - 2026
       description:
-        - "Supervisor: Dr. Sebastian Höhna"
+        - "Supervisor: Prof. Dr. Sebastian Höhna"
         - "Thesis: Toward More Realistic Models of Morphological Evolution in Bayesian Phylogenetics"
     - title: "Master of Science in Biology"
       institution: Southeastern Louisiana University, Hammond, LA, US
@@ -32,20 +32,20 @@
         - "Supervisor: Dr. April Wright"
         - "GPA: 4.0"
         - "Thesis: Inference of Phylogeny Using Discrete Morphological Characters"
-    - title: "Bachelor of Science in Biology"
+    - title: "Bachelor of Science (Honors) in Biology"
       institution: Southeastern Louisiana University, Hammond, LA, US
       year: 2017 - 2021
       description:
         - "Minors: Chemistry and Political Science"
         - "Advisor: Dr. April Wright"
-        - "Thesis: Species delimitation of the Eastern Pinesnake complex (Pituophis melanoleucus)"
+        - "Honors Thesis: Species delimitation of Eastern Pinesnakes (Pituophis melanoleucus)"
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Research Assitant
+    - title: Research Assistant; Ph.D. Candidate
       institution: Höhna Lab, Dept. of Earth and Environmental Sciences, LMU München
-      year: 2023 - Present
+      year: 2023 - 2026
       description:
         - Bayesian phylogenetic methods for morphological datasets
     - title: Graduate Research Assistant
@@ -86,7 +86,7 @@
       institution: "Khakurel B., Capobianco A., Höhna S. · Royal Society Open Science (Submitted)"
       year: 2026
     - title: "Character level insights on the mosaic nature of morphological evolution"
-      institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Proceedings of the Royal Society B (Submitted)"
+      institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · PNAS Nexus (Submitted)"
       year: 2026
     - title: "Incorporating continuous characters in joint estimation of dicynodont phylogeny"
       institution: "Wynd B.M., Khakurel B., Kammerer C.F., Wagner P.J., Wright A.M. · Systematic Biology"
@@ -94,7 +94,7 @@
       description:
         - "https://doi.org/10.1093/sysbio/syaf078"
     - title: "A covarion model for phylogenetic estimation using discrete morphological datasets"
-      institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Systematic Biology"
+      institution: "Khakurel B., Höhna S. · Systematic Biology"
       year: 2026
       description:
         - "https://doi.org/10.1093/sysbio/syag014"
@@ -109,11 +109,11 @@
       description:
         - "https://doi.org/10.3897/biss.8.115232"
     - title: "The fundamental role of character coding in Bayesian morphological phylogenetics"
-      institution: "Khakurel B., Grigsby C., Tran T.D., Zariwala J., Wright A.M. · Systematic Biology"
+      institution: "Khakurel B., Grigsby C., Tran T.D., Zariwala J., Höhna S., Wright A.M. · Systematic Biology"
       year: 2024
       description:
         - "https://doi.org/10.1093/sysbio/syae033"
-    - title: "Species delimitation of the eastern Pinesnake complex (Pituophis melanoleucus)"
+    - title: "Species delimitation of eastern Pinesnake complex (Pituophis melanoleucus)"
       institution: "Khakurel B., Nikolakis Z.L., Crother B.I., Wright A.M. · Bulletin of the Society of Systematic Biologists"
       year: 2023
       description:
@@ -127,8 +127,11 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: "Accounting for rate heterotachy in morphological phylogenetics: An overview in RevBayes"
+      institution: "Palaeoverse Lecture Series, Online Webinar"
+      year: 2026
     - title: "A Covarion model for Discrete Morphological Datasets — Beyond the Mk model: Addressing Heterotachy"
-      institution: "Bristol Paleobiology Group, University of Bristol"
+      institution: "Bristol Palaeobiology Group, University of Bristol"
       year: 2026
     - title: "Snakes, Fish, and Bayesian morphological phylogenetics"
       institution: "PhD and PostDoc Seminar, Paleontological Museum Munich"
@@ -214,6 +217,10 @@
     - title: Sophomore Honors Distinction
       institution: Southeastern Louisiana University
       year: 2019
+    - title: Member, Phi Kappa Phi Honor Society
+      institution: Southeastern Louisiana University chapter
+    - title: Member, Thirteen Club
+      institution: Southeastern Louisiana University
 
 - title: Workshops & Training
   type: time_table
@@ -243,6 +250,8 @@
 - title: Service & Outreach
   type: time_table
   contents:
+    - title: Reviewer
+      institution: Methods in Ecology and Evolution
     - title: Project Contributor
       institution: Himalayan Pariwar e.V., Munich, Germany
       year: 2024 - Present
