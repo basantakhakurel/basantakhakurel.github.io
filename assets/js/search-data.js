@@ -72,6 +72,26 @@ ninja.data = [{
           description: "Bridging the educational gap for hearing-impaired children in Nepal.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/accessible_education_2025/";
+            },},{id: "projects-character-coding-and-state-space",
+          title: 'Character Coding and State Space',
+          description: "How unobserved character states bias Bayesian morphological phylogenetics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/character_coding/";
+            },},{id: "projects-continuous-characters-in-phylogenetics",
+          title: 'Continuous Characters in Phylogenetics',
+          description: "Joint estimation of dicynodont phylogeny from continuous and discrete traits",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/continuous_characters/";
+            },},{id: "projects-covarion-model-for-morphology",
+          title: 'Covarion Model for Morphology',
+          description: "Modelling characters that change their speed of evolution across the tree",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/covarion/";
+            },},{id: "projects-mosaic-morphological-evolution",
+          title: 'Mosaic Morphological Evolution',
+          description: "Testing which model of evolution fits each morphological character",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mosaic_evolution/";
             },},{id: "projects-hidden-cost-of-rate-discretization",
           title: 'Hidden cost of Rate Discretization',
           description: "How the number of rate categories affects phylogenetic inference",
