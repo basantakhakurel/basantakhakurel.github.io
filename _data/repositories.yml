@@ -1,8 +1,30 @@
-github_users:
-  - basantakhakurel
+github_user: basantakhakurel
 
-github_repos:
-  - revbayes/revbayes
-  - basantakhakurel/RevGadgets
-  - basantakhakurel/Pituophis_
-  - basantakhakurel/morpheus
+# Data and analysis scripts accompanying papers
+research:
+  - repo: basantakhakurel/morpheus
+    title: Covariomorph model
+    description: Analysis data and scripts for the covarion model for discrete morphological characters.
+    paper: "Khakurel & Höhna (2026), Systematic Biology"
+    doi: 10.1093/sysbio/syag014
+  - repo: basantakhakurel/rate_discretization
+    title: The hidden cost of discretization
+    description: Simulation study of how discretizing and normalizing among-character rate variation affects phylogenetic inference.
+    paper: "Khakurel, Capobianco & Höhna, submitted"
+  - repo: basantakhakurel/Pituophis_
+    title: Eastern Pinesnake species delimitation
+    description: Species tree and species delimitation analyses of the eastern Pinesnake complex.
+    paper: "Khakurel et al. (2023), Bulletin of the Society of Systematic Biologists"
+    doi: 10.18061/bssb.v2i1.9423
+
+# Software I contribute to
+software:
+  - repo: revbayes/revbayes
+    title: RevBayes
+    description: Bayesian phylogenetic inference using graphical models. I contribute to the morphological models.
+  - repo: revbayes/RevGadgets
+    title: RevGadgets
+    description: R package for processing and visualizing RevBayes output. I added the simulation-based calibration (validation) functions.
+  - repo: tribblelab/revSyntax
+    title: RevSyntax
+    description: VS Code extension providing syntax highlighting for the Rev language used by RevBayes.
